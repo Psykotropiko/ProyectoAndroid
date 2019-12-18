@@ -2,7 +2,7 @@
 
 Realizado por:
 
-Manuel Nieto Rodríguez
-Luis Javier Jiménez Fernández
-Alejandro Carrasco i Carmona
-Ángel Juan Pinazo
+Manuel Nieto Rodríguez \n
+Luis Javier Jiménez Fernández\n
+Alejandro Carrasco i Carmona\n
+Ángel Juan Pinazo\n
